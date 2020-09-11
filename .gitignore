@@ -61,3 +61,5 @@ crashlytics-build.properties
 # Additions by Rito
 *.cmd
 *.cmd.meta
+
+_*
