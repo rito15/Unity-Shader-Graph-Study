@@ -7,10 +7,10 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: MultiColor Blend Test
-  m_Shader: {fileID: -6465566751694194690, guid: 99d156ba0932406468e5b2062ddc3b3d,
+  m_Name: Test Rim Light
+  m_Shader: {fileID: -6465566751694194690, guid: 20abac5b5af4fbc46b080d6b2f404d56,
     type: 3}
-  m_ShaderKeywords: 
+  m_ShaderKeywords: BOOLEAN_42E0882A_ON
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -20,15 +20,13 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
-    - Texture2D_D25C52A:
-        m_Texture: {fileID: 2800000, guid: 0a0e8af2869fa45f78e25460db578482, type: 3}
+    - Texture2D_DAFA849A:
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - Vector1_1F8F6828: 0.169
-    - Vector1_8AAD7FDC: 0.164
-    - Vector1_F4697A19: 0
-    - Vector1_FB4C339A: 0.129
+    - BOOLEAN_42E0882A: 1
+    - Vector1_427B3B86: 1
+    - Vector1_DC45C98A: 3.76
     m_Colors:
-    - Color_A8401207: {r: 1, g: 0, b: 0, a: 0}
-    - Color_EA05D308: {r: 0.034243584, g: 0, b: 1, a: 0}
+    - Color_9D45CA54: {r: 0.90803945, g: 1, b: 0.09019607, a: 0}
