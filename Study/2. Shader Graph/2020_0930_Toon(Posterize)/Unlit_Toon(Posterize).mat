@@ -7,8 +7,9 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: OutlineHull
-  m_Shader: {fileID: 4800000, guid: 9ce107479d11178d11005b9844295342, type: 3}
+  m_Name: Unlit_Toon(Posterize)
+  m_Shader: {fileID: -6465566751694194690, guid: 77cefb898207ed7478850cb6add2a655,
+    type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -23,12 +24,16 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    - _ToonShade:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
     m_Floats:
-    - _Outline: 0.02432
+    - _Darkness: 1
+    - _LineSize: 0.3
+    - _Posterize: 1
+    - _Posterize_Count: 5.9
+    - _Power: 0.698
+    - _Power2: 3.77
+    - _RimBlend: 0
+    - _RimSize: 0.3
     m_Colors:
-    - _Color: {r: 0.5, g: 0.5, b: 0.5, a: 1}
-    - _OutlineColor: {r: 1, g: 0, b: 0, a: 1}
+    - _LineColor: {r: 1, g: 1, b: 1, a: 0}
+    - _Main_Color: {r: 0.3018868, g: 0.3018868, b: 0.3018868, a: 0}
+    - _RimColor: {r: 0, g: 0, b: 0, a: 0}

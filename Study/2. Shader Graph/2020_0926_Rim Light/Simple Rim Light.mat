@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Test Rim Light
+  m_Name: Simple Rim Light
   m_Shader: {fileID: -6465566751694194690, guid: 20abac5b5af4fbc46b080d6b2f404d56,
     type: 3}
   m_ShaderKeywords: BOOLEAN_42E0882A_ON
@@ -24,9 +24,16 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _MainTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     m_Floats:
     - BOOLEAN_42E0882A: 1
     - Vector1_427B3B86: 1
     - Vector1_DC45C98A: 3.76
+    - _RimPower: 0.3
+    - _RimRange: 5
     m_Colors:
     - Color_9D45CA54: {r: 0.90803945, g: 1, b: 0.09019607, a: 0}
+    - _RimColor: {r: 1, g: 0, b: 0.009994984, a: 0}

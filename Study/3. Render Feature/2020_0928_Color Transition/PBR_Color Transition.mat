@@ -7,8 +7,9 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: OutlineHull
-  m_Shader: {fileID: 4800000, guid: 9ce107479d11178d11005b9844295342, type: 3}
+  m_Name: PBR_Color Transition
+  m_Shader: {fileID: -6465566751694194690, guid: 66c5242d9bbbd9d4f8ac1697460a7fd8,
+    type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -23,12 +24,14 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    - _ToonShade:
-        m_Texture: {fileID: 0}
+    - _SampleTexture2D_1F00DA7C_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 0a0e8af2869fa45f78e25460db578482, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - _Outline: 0.02432
-    m_Colors:
-    - _Color: {r: 0.5, g: 0.5, b: 0.5, a: 1}
-    - _OutlineColor: {r: 1, g: 0, b: 0, a: 1}
+    - _ColorSeedX: 1
+    - _ColorSeedY: 2
+    - _PatternDensity: 5
+    - _RimRange: 0.5
+    - _TransitionSpeed: 3
+    m_Colors: []
