@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Unlit_Toon(MultiCel)
-  m_Shader: {fileID: -6465566751694194690, guid: a8dd1dc05cb0d1e4e9c40b26dd0f38b0,
+  m_Name: Shader Graphs_Unlit_Cloaking(Vertical) Type 2
+  m_Shader: {fileID: -6465566751694194690, guid: 54e5415b8798aec42a54fbb7bfe25728,
     type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
@@ -24,23 +24,16 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    - _MainTexture:
+    - _Normal:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - Vector1_9A07FE2A: 0.3
-    - Vector1_CBF08FAA: -0.24
-    - Vector1_DBA4C6A6: 1
-    - _CelCount: 3
-    - _MainLightColorBlend: 1
-    - _RimBlend: 1
-    - _RimLightBlend: 0
-    - _RimLightSize: 0.3
-    - _RimSize: 0.5
-    - _ShadowBlend: 0
-    - _ShadowSize: 0
+    - _Alpha: 0.05
+    - _AlphaThreshold: 0.05
+    - _Blend: 0
+    - _RimRange: 1
+    - _TileDensity: 15
+    - _TransitionSpeed: 0.05
     m_Colors:
-    - Color_4B525E00: {r: 1, g: 1, b: 1, a: 0}
-    - _RimColor: {r: 1, g: 1, b: 1, a: 0}
-    - _ShadowColor: {r: 0, g: 0, b: 0, a: 0}
+    - _Color: {r: 0, g: 1, b: 0.50979185, a: 0}

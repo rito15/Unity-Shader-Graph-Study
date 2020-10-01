@@ -34,10 +34,10 @@ Material:
     - Vector1_DBA4C6A6: 4.8
     - _CelCount: 3
     - _MainLightColorBlend: 1
-    - _RimBlend: 0.1
+    - _RimBlend: 1
     - _RimLightBlend: 0
     - _RimLightSize: 0.3
-    - _RimSize: 0.2
+    - _RimSize: 0.505
     - _ShadowBlend: 0
     - _ShadowSize: 0
     m_Colors:
