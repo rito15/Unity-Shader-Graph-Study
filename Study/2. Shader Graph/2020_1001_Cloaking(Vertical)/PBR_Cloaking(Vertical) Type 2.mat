@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Shader Graphs_Unlit_Cloaking(Vertical) Type 2
+  m_Name: PBR_Cloaking(Vertical) Type 2
   m_Shader: {fileID: -6465566751694194690, guid: 54e5415b8798aec42a54fbb7bfe25728,
     type: 3}
   m_ShaderKeywords: 
