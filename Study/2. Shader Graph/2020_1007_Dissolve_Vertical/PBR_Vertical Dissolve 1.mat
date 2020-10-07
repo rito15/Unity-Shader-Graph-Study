@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PBR_Vertical Dissolve 1
+  m_Shader: {fileID: -6465566751694194690, guid: 04baf65cb59b27b4192d6566eb9f1bac,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_E6AE883: 0
+    - _Dissolve: 0.358
+    - _EdgeThickness: 0.1
+    - _NoisePower: 3
+    m_Colors:
+    - Vector2_54CC7897: {r: -1.5, g: 0.25, b: 0, a: 0}
+    - _Color: {r: 4, g: 3.87451, b: 0, a: 0}
