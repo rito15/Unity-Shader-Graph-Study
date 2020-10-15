@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Active: 1
   settings:
-    passTag: Hologram
-    Event: 300
+    passTag: URPRandom Color HologramRenderer
+    Event: 550
     filterSettings:
       RenderQueueType: 0
       LayerMask:
