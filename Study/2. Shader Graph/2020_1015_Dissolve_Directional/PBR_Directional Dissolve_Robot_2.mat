@@ -25,10 +25,14 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - _Dissolve: 0.371
-    - _DissolveBeginOffset: 0.516
-    - _DissolveEndOffset: 1.24
+    - _Dissolve: 0.503
+    - _DissolveBeginOffset: 1.1
+    - _DissolveEndOffset: 0.9
     - _EdgeThickness: 0.1
+    - _EdgeThicknessA: 0.1
+    - _EdgeThicknessB: 0.1
     m_Colors:
     - _Color: {r: 3.9999995, g: 2.0679193, b: 0, a: 0}
-    - _DissolveDirection: {r: -1, g: 0, b: 0, a: 0}
+    - _ColorA: {r: 2.2439535, g: 0, b: 3.9999995, a: 0}
+    - _ColorB: {r: 8.920724, g: 0.8836566, b: 3.4287274, a: 0}
+    - _DissolveDirection: {r: 1, g: 0, b: 0, a: 0}

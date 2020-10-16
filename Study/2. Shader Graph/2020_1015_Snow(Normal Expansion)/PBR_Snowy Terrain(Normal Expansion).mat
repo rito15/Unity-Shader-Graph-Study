@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: PBR_Snow(Normal Expansion)_1
+  m_Name: Snow Ground
   m_Shader: {fileID: -6465566751694194690, guid: d068e6b96fe186844be686b69f3ec8dc,
     type: 3}
   m_ShaderKeywords: 
@@ -21,16 +21,12 @@ Material:
     serializedVersion: 3
     m_TexEnvs: []
     m_Floats:
-    - Vector1_964C7ADC: 308
-    - _DivisionFactor: 100
-    - _NoiseScale: 50
-    - _NormalExpansion: 0.325
-    - _NormalNoise: 444
-    - _NormalNoiseMultiplier: 9.82
-    - _SnowDirection: 0
+    - _DivisionFactor: 1
+    - _NormalExpansion: 1
+    - _NormalNoise: 222
+    - _NormalNoiseMultiplier: 2.6
     - _SnowNoiseScale: 50
-    - _SnowRange: 0.55
+    - _SnowRange: 1
     m_Colors:
-    - _SnowColor: {r: 4, g: 4, b: 4, a: 0}
+    - _SnowColor: {r: 0.14150941, g: 0.14150941, b: 0.14150941, a: 0}
     - _SnowDirection: {r: 0, g: 1, b: 0, a: 0}
-    - _SnowDirectionA: {r: 0, g: 1, b: 0, a: 0}
