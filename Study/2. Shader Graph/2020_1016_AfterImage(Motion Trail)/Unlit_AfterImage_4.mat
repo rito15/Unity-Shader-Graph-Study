@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: PBR_Snowy Terrain(Normal Expansion)
-  m_Shader: {fileID: -6465566751694194690, guid: d068e6b96fe186844be686b69f3ec8dc,
+  m_Name: Unlit_AfterImage_4
+  m_Shader: {fileID: -6465566751694194690, guid: c4ab99c09d3d4d249af9b6e177b7f549,
     type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
@@ -21,12 +21,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs: []
     m_Floats:
-    - _DivisionFactor: 1
-    - _NormalExpansion: 1
-    - _NormalNoise: 222
-    - _NormalNoiseMultiplier: 2.6
-    - _SnowNoiseScale: 50
-    - _SnowRange: 1
+    - _alpha: 0.1
     m_Colors:
-    - _SnowColor: {r: 0.14150941, g: 0.14150941, b: 0.14150941, a: 0}
-    - _SnowDirection: {r: 0, g: 1, b: 0, a: 0}
+    - _Color: {r: 0, g: 2, b: 0.09411765, a: 1}
+    - _Position: {r: 0, g: 0, b: 0, a: 0}

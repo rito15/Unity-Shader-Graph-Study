@@ -25,14 +25,16 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - _Dissolve: 0.503
+    - _Dissolve: 0.473
     - _DissolveBeginOffset: 0.5
     - _DissolveEndOffset: 0.7
     - _EdgeThickness: 0.1
     - _EdgeThicknessA: 0.1
     - _EdgeThicknessB: 0.1
+    - _NoiseScale: 100
     m_Colors:
     - _Color: {r: 4, g: 3.87451, b: 0, a: 0}
     - _ColorA: {r: 0, g: 0.1289844, b: 4, a: 0}
     - _ColorB: {r: 0, g: 5.0047975, b: 1.9562101, a: 0}
     - _DissolveDirection: {r: 0, g: 1, b: 0, a: 0}
+    - _TintColor: {r: 0.23113209, g: 0.32840133, b: 1, a: 0}
