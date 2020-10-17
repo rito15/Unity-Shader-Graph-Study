@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: PBR_Individual Snow 2
+  m_Name: PBR_Soft Snow 2
   m_Shader: {fileID: -6465566751694194690, guid: b52e05ca0fb342948a00d13bc5b456d3,
     type: 3}
   m_ShaderKeywords: 
@@ -29,3 +29,4 @@ Material:
     - _SnowRange: 0.696
     m_Colors:
     - _SnowColor: {r: 0.99471855, g: 0, b: 1, a: 0}
+    - _SnowDirection: {r: 0, g: 1, b: 0, a: 0}
