@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: PBR_Hard Snow_Robot_1
-  m_Shader: {fileID: -6465566751694194690, guid: 7cef2e877b42080459ab794dad9129b6,
+  m_Name: PBR_Hard Snow_Ver 2_Robot 1
+  m_Shader: {fileID: -6465566751694194690, guid: dd47477112c26e34ea9b2ce5de01a9a1,
     type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
@@ -25,12 +25,14 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - _NoiseScale: 200
-    - _SnowEdge: 1
-    - _SnowOpacity: 1
-    - _SnowRange: 0.411
-    - _VerticalClipRange: 0.806
-    - _VerticalRange: 0.378
+    - Vector1_3CA89840: 1
+    - _AdditionalSnowOpacity: 1
+    - _EmissionOpacity: 0
+    - _NoiseScale: 100
+    - _SnowOpacity: 3.74
+    - _SnowRange: 0.507
+    - _SnowSmoothness: 0.795
+    - _VerticalClip: 0.702
     m_Colors:
-    - _SnowColor: {r: 2.9960785, g: 2.9960785, b: 2.9960785, a: 0}
+    - _SnowColor: {r: 1, g: 1, b: 1, a: 0}
     - _SnowDirection: {r: -1, g: 0, b: 0, a: 0}

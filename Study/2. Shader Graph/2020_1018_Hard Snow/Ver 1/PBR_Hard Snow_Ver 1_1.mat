@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: PBR_Hard Snow_1
+  m_Name: PBR_Hard Snow_Ver 1_1
   m_Shader: {fileID: -6465566751694194690, guid: 7cef2e877b42080459ab794dad9129b6,
     type: 3}
   m_ShaderKeywords: 
@@ -27,8 +27,8 @@ Material:
     m_Floats:
     - _NoiseScale: 200
     - _SnowEdge: 1
-    - _SnowOpacity: 1
-    - _SnowRange: 0.384
+    - _SnowOpacity: 2.49
+    - _SnowRange: 0.53
     - _VerticalClipRange: 0.762
     - _VerticalRange: 0.5
     m_Colors:
