@@ -7,19 +7,26 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Shield Distortion_PBR_1
-  m_Shader: {fileID: -6465566751694194690, guid: 0513592b8f602794f946140636e0d72e,
+  m_Name: Unlit_Rainy Window
+  m_Shader: {fileID: -6465566751694194690, guid: 03141e3202c1a4f43ab367951ac672f3,
     type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
-  m_CustomRenderQueue: 2999
+  m_CustomRenderQueue: -1
   stringTagMap: {}
   disabledShaderPasses: []
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs: []
     m_Floats:
-    - _Alpha: 1
+    - _Blur: 0.382
+    - _BlurResolution: 32
+    - _Brightness: 0.9
+    - _Distortion: -5
+    - _DropSpeed: 1
+    - _LayerCount: 3
+    - _SizeX: 3
+    - _SizeY: 3
     m_Colors: []

@@ -7,14 +7,14 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Shield Distortion_PBR_1
-  m_Shader: {fileID: -6465566751694194690, guid: 0513592b8f602794f946140636e0d72e,
+  m_Name: Banshees Veil
+  m_Shader: {fileID: -6465566751694194690, guid: 43b279e43d7f6654ea9cbaf637e762b5,
     type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
-  m_CustomRenderQueue: 2999
+  m_CustomRenderQueue: -1
   stringTagMap: {}
   disabledShaderPasses: []
   m_SavedProperties:
@@ -22,4 +22,11 @@ Material:
     m_TexEnvs: []
     m_Floats:
     - _Alpha: 1
-    m_Colors: []
+    - _InnerRingThickness: 0.0376
+    - _OuterShieldPower: 3.5
+    - _Speed: 5
+    m_Colors:
+    - Color_2BB0B0D4: {r: 0.67656964, g: 1.5320996, b: 3.677763, a: 0}
+    - Inner_Color: {r: 0.44705883, g: 0.47058824, b: 2, a: 0}
+    - _OuterColor: {r: 2.0931273, g: 1.8010466, b: 7.999999, a: 0}
+    - _Remap: {r: 0, g: 0.5, b: 0, a: 0}
