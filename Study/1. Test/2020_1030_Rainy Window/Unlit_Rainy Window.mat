@@ -21,7 +21,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs: []
     m_Floats:
-    - _Blur: 0.382
+    - _Blur: 0.3
     - _BlurResolution: 32
     - _Brightness: 0.9
     - _Distortion: -5
