@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: PBR_Water Ripples
-  m_Shader: {fileID: -6465566751694194690, guid: 9c4c90425b1df2f438a1296733dc44c4,
+  m_Name: Unlit_Portal Distortion
+  m_Shader: {fileID: -6465566751694194690, guid: 46feb062e322e9f4696eee10a1b8c7db,
     type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
@@ -21,7 +21,9 @@ Material:
     serializedVersion: 3
     m_TexEnvs: []
     m_Floats:
-    - _Speed: 0.312
-    - _Strength: 2
-    - _Tiling: 30
+    - _NoiseScale: 6
+    - _NormalStrength: 5
+    - _Speed: 0.5
+    - _Strength: 5
+    - _TwirlStrength: 5
     m_Colors: []

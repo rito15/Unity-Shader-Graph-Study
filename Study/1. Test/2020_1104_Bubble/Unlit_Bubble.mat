@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: PBR_Water Ripples
-  m_Shader: {fileID: -6465566751694194690, guid: 9c4c90425b1df2f438a1296733dc44c4,
+  m_Name: Unlit_Bubble
+  m_Shader: {fileID: -6465566751694194690, guid: 203f1501206ce744db44328e1922f43c,
     type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
@@ -21,7 +21,10 @@ Material:
     serializedVersion: 3
     m_TexEnvs: []
     m_Floats:
-    - _Speed: 0.312
-    - _Strength: 2
-    - _Tiling: 30
-    m_Colors: []
+    - _Alpha: 0
+    - _Distortion: 0.3
+    - _Opacity: 0.02
+    - _Speed: 5
+    - _Strength: 0.05
+    m_Colors:
+    - Color_ADECE68A: {r: 0, g: 0, b: 0, a: 0}

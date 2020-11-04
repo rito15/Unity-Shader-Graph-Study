@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: PBR_Water Ripples
-  m_Shader: {fileID: -6465566751694194690, guid: 9c4c90425b1df2f438a1296733dc44c4,
+  m_Name: Shader Graphs_Nodes Test_01
+  m_Shader: {fileID: -6465566751694194690, guid: 686e8956dbcf5e04fac94d9ce33a30bc,
     type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
@@ -19,9 +19,12 @@ Material:
   disabledShaderPasses: []
   m_SavedProperties:
     serializedVersion: 3
-    m_TexEnvs: []
+    m_TexEnvs:
+    - Texture2D_C98D29B:
+        m_Texture: {fileID: 2800000, guid: 0dc5fdab6908c094b99cf07e18d2e297, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     m_Floats:
-    - _Speed: 0.312
-    - _Strength: 2
-    - _Tiling: 30
+    - Vector1_1DA21D08: 0.01
+    - Vector1_3185DCC0: 0.33
     m_Colors: []
