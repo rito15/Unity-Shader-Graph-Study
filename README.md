@@ -5,7 +5,7 @@
 
 ## 1. Renderer Feature(Blit)
 ### [1] Sillhouete Dither
-![](https://trello-attachments.s3.amazonaws.com/5f50966e6afb957635363ecb/5f63074b58402962156e117f/61800fde474ee12c3d090bbcbb043ec4/image.png)
+![](https://trello-attachments.s3.amazonaws.com/5f50966e6afb957635363ecb/5f63074b58402962156e117f/61800fde474ee12c3d090bbcbb043ec4/image.png){: width="200" height="100"}
 
 ### [2] Posterize + Colored Outline
 ![](https://trello-attachments.s3.amazonaws.com/5f741bc42db2151dfec4016a/909x502/cb98de0bf3c1e8e53c3a4737ec1b729f/image.png)
