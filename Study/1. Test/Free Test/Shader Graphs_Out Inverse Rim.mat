@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Shader Graphs_Out Inverse Rim
+  m_Shader: {fileID: -6465566751694194690, guid: 32924e5a8ff0a0e4f953f6dd227da67a,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 3000
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - Vector1_1E8D2D1: 6.51
+    - Vector1_FDE2459F: 0.312
+    - _Range: 1.27
+    m_Colors:
+    - Color_5D7392DE: {r: 2.5658538, g: 2.670157, b: 0, a: 0}
