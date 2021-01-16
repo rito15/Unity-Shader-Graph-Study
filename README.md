@@ -1,5 +1,5 @@
-# Unity URP Shader Study
-[ 2020. 09. 09 ~ ] URP 쉐이더, 쉐이더 그래프 공부
+# Unity URP ShaderGraph Study
+[ 2020. 09. 09 ~ ]
 
 ------
 
