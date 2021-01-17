@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PBR_Snow_Normal Expansion_Robot
+  m_Shader: {fileID: -6465566751694194690, guid: 6cca32febd16d86438d7bf5064b6d77c,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - Vector1_64A31ECE: 25
+    - Vector1_97EB1DA3: 0.406
+    - Vector1_F3291602: 0.01
+    - Vector1_F54C69D7: 0.548
+    - Vector1_FF3F8890: 0.67
+    - _On: 1
+    m_Colors:
+    - Color_3705D1EE: {r: 1, g: 1, b: 1, a: 0}
+    - Vector3_5B7C5242: {r: 0, g: 1, b: 0, a: 0}
