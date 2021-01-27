@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Unlit_Stylized Lit_Robot 2
+  m_Name: Unlit_Stylized Lit_Robot_2
   m_Shader: {fileID: -6465566751694194690, guid: 1caec319d7798ad438833cec34e127dc,
     type: 3}
   m_ShaderKeywords: 
@@ -24,25 +24,31 @@ Material:
         m_Texture: {fileID: 2800000, guid: 0a0e8af2869fa45f78e25460db578482, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - Texture2D_9559A431:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     m_Floats:
     - Boolean_8C65A08: 0
     - Vector1_18DAD313: 0
-    - Vector1_3033DC06: 0.8
+    - Vector1_3033DC06: 1.139
     - Vector1_42CDC73B: 0.3
     - Vector1_48F4BBEA: 0.5
-    - Vector1_5C466262: 0.2
-    - Vector1_6BB8C4B: 20
-    - Vector1_81F4804A: 0.6
+    - Vector1_5C466262: 0.54
+    - Vector1_6BB8C4B: 16.8
+    - Vector1_81F4804A: 0.957
     - Vector1_942F2526: 0.2
-    - Vector1_C52D5912: 0.6
+    - Vector1_C52D5912: 0.403
     - Vector1_D468BEFA: 1
-    - Vector1_E68B2452: 0.2
-    - Vector1_FC726D87: 0.2
+    - Vector1_D69DE9CD: 0.5
+    - Vector1_E68B2452: 0.111
+    - Vector1_FC726D87: 0.092
     m_Colors:
     - Color_1100BAD5: {r: 0, g: 0, b: 0, a: 0}
     - Color_13DFF7A3: {r: 1, g: 1, b: 1, a: 0}
     - Color_61799616: {r: 1, g: 1, b: 1, a: 0}
-    - Color_7A60349A: {r: 0, g: 0.3416152, b: 1, a: 1}
-    - Color_BBE85AFD: {r: 0, g: 1, b: 0.8501792, a: 1}
-    - Color_C6C383C5: {r: 0.042452812, g: 0.05874135, b: 1, a: 1}
+    - Color_621B6381: {r: 1, g: 1, b: 1, a: 0}
+    - Color_7A60349A: {r: 1, g: 0.29011527, b: 0, a: 1}
+    - Color_BBE85AFD: {r: 0, g: 0.13188505, b: 1, a: 1}
+    - Color_C6C383C5: {r: 1, g: 0, b: 0, a: 1}
     - Vector3_CD6711A2: {r: 0, g: 0, b: 0, a: 0}
