@@ -115,7 +115,7 @@ Material:
     - _Cull: 2
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
-    - _Dissolve: 0.311
+    - _Dissolve: 0
     - _DstBlend: 0
     - _EdgeWidth: 0.1
     - _GlossMapScale: 1

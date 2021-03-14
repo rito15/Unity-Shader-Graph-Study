@@ -46,7 +46,8 @@
         Tags 
         {
             "RenderPipeline"="UniversalPipeline"
-            "RenderType"="Opaque"
+            "RenderType"="Transparent"
+            "Queue"="Transparent"
         }
 
         Pass
