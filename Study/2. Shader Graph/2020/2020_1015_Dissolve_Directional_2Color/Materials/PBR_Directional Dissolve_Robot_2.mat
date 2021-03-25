@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: PBR_Directional Dissolve_1
+  m_Name: PBR_Directional Dissolve_Robot_2
   m_Shader: {fileID: -6465566751694194690, guid: 97c6dd483b7624141b388ba8d0a4290a,
     type: 3}
   m_ShaderKeywords: 
@@ -21,20 +21,20 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _MainTex:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: 0a0e8af2869fa45f78e25460db578482, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - _Dissolve: 0.473
-    - _DissolveBeginOffset: 0.5
-    - _DissolveEndOffset: 0.7
+    - _Dissolve: 0.21
+    - _DissolveBeginOffset: 0.63
+    - _DissolveEndOffset: -1.41
     - _EdgeThickness: 0.1
     - _EdgeThicknessA: 0.1
     - _EdgeThicknessB: 0.1
     - _NoiseScale: 100
     m_Colors:
-    - _Color: {r: 4, g: 3.87451, b: 0, a: 0}
-    - _ColorA: {r: 0, g: 0.1289844, b: 4, a: 0}
-    - _ColorB: {r: 0, g: 5.0047975, b: 1.9562101, a: 0}
-    - _DissolveDirection: {r: 0, g: 1, b: 0, a: 0}
-    - _TintColor: {r: 0.23113209, g: 0.32840133, b: 1, a: 0}
+    - _Color: {r: 3.9999995, g: 2.0679193, b: 0, a: 0}
+    - _ColorA: {r: 2.2439535, g: 0, b: 3.9999995, a: 0}
+    - _ColorB: {r: 8.920724, g: 0.8836566, b: 3.4287274, a: 0}
+    - _DissolveDirection: {r: 1, g: 0, b: 0, a: 0}
+    - _TintColor: {r: 1, g: 1, b: 1, a: 0}

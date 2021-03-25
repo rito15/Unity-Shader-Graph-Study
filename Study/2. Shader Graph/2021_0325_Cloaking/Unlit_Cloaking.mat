@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: PBR_Directional Dissolve_Robot_2
-  m_Shader: {fileID: -6465566751694194690, guid: 97c6dd483b7624141b388ba8d0a4290a,
+  m_Name: PBR_Cloaking
+  m_Shader: {fileID: -6465566751694194690, guid: 07f09a8f9ba76f8428add2d1b8e7bbc9,
     type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
@@ -20,21 +20,21 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
-    - _MainTex:
+    - Texture2D_87749CFE:
+        m_Texture: {fileID: 2800000, guid: 94c473c9137744d7eabd829f1150da8d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_C340FDD3:
         m_Texture: {fileID: 2800000, guid: 0a0e8af2869fa45f78e25460db578482, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - _Dissolve: 0.473
-    - _DissolveBeginOffset: 1.1
-    - _DissolveEndOffset: 0.9
-    - _EdgeThickness: 0.1
-    - _EdgeThicknessA: 0.1
-    - _EdgeThicknessB: 0.1
-    - _NoiseScale: 100
+    - Vector1_20C5F788: 0.05
+    - Vector1_4A1F7B66: 4
+    - Vector1_736DE1E3: 0
+    - Vector1_971B450E: 0.05
+    - Vector1_B61C49B4: 1
+    - Vector1_DC37F646: 4
+    - Vector1_EA9CC09F: 1
     m_Colors:
-    - _Color: {r: 3.9999995, g: 2.0679193, b: 0, a: 0}
-    - _ColorA: {r: 2.2439535, g: 0, b: 3.9999995, a: 0}
-    - _ColorB: {r: 8.920724, g: 0.8836566, b: 3.4287274, a: 0}
-    - _DissolveDirection: {r: 1, g: 0, b: 0, a: 0}
-    - _TintColor: {r: 1, g: 1, b: 1, a: 0}
+    - Color_6FCF5879: {r: 1.1937171, g: 3.8850586, b: 3.9999995, a: 0}
