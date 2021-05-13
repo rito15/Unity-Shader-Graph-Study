@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: PBR_Cloaking
+  m_Name: Unlit_Cloaking
   m_Shader: {fileID: -6465566751694194690, guid: 07f09a8f9ba76f8428add2d1b8e7bbc9,
     type: 3}
   m_ShaderKeywords: 
@@ -37,4 +37,4 @@ Material:
     - Vector1_DC37F646: 4
     - Vector1_EA9CC09F: 1
     m_Colors:
-    - Color_6FCF5879: {r: 1.1937171, g: 3.8850586, b: 3.9999995, a: 0}
+    - Color_6FCF5879: {r: 2.762306, g: 14.259474, b: 11.921629, a: 0}

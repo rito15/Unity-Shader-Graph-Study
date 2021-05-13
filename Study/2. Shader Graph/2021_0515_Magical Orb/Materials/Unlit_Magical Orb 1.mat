@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Unlit_Magical Orb 1
+  m_Shader: {fileID: -6465566751694194690, guid: ab91478932b516846968960bdfc67fd6,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_74B840B4:
+        m_Texture: {fileID: 2800000, guid: 340fecb2d0668b9418521b6a77d49050, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_30A3534C: 1
+    - Vector1_42716088: 1
+    - Vector1_5477A14: 0.2
+    - Vector1_559AB4F2: 8
+    - Vector1_59DB761C: 1
+    - Vector1_73D4089B: 1
+    - Vector1_74275853: 5
+    - Vector1_8025942B: 2
+    - Vector1_9BDD65AF: 1
+    - Vector1_A8E31E6F: 0.25
+    - Vector1_BA6F43B9: 1
+    - Vector1_F2D931DD: 0.25
+    m_Colors:
+    - Color_997C9347: {r: 0.6492144, g: 3.09786, b: 3.9999995, a: 0}
+    - _Color: {r: 0.22141638, g: 0.8530876, b: 4.229054, a: 0}
