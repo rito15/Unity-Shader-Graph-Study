@@ -54,3 +54,10 @@
 
 ### Water Ripples
 <img src="https://user-images.githubusercontent.com/42164422/104810089-e5645180-5835-11eb-965d-4af19d41df4e.gif" width="500">
+
+### Magical Orbs
+<img src="https://user-images.githubusercontent.com/42164422/118161804-fb3bf900-b45a-11eb-85df-bd0e824eedef.gif" width="500">
+
+<img src="https://user-images.githubusercontent.com/42164422/118161810-fc6d2600-b45a-11eb-80db-63c444d387aa.gif" width="500">
+
+<img src="https://user-images.githubusercontent.com/42164422/118161814-fd05bc80-b45a-11eb-8f5a-ae3bf2682515.gif" width="500">
